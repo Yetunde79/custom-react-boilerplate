@@ -22,7 +22,7 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^2.1.1",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
-    "jest": "^24.8.0",
+    "jest": "^29.5.0",
     "live-server": "^1.2.1",
     "mini-css-extract-plugin": "^0.6.0",
     "node-sass": "^4.12.0",
